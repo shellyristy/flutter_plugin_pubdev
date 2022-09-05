@@ -27,6 +27,7 @@ Masih di file red_text_widget.dart, untuk menggunakan plugin auto_size_text, uba
 ### Langkah 5 : Buat Variabel text dan parameter di constructor
 Tambahkan variabel text dan parameter di constructor seperti berikut.
 ![Screenshot flutter_plugin_pubdev](images/09.png)
+Penambahan import 'package:auto_size_text/auto_size_text.dart' 
 ![Screenshot flutter_plugin_pubdev](images/10.png)
 
 ### Langkah 6 : Tambahkan widget di main.dart
