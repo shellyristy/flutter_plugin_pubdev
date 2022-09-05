@@ -1,6 +1,6 @@
 # **Tugas Pertemuan 22**
 ## **Flutter_plugin_pubdev**
-## Tugas Prektikum 1 :
+## Tugas Praktikum 1 :
  
 ### Langkah 1 : Buat Project Baru
 Buatlah sebuah project flutter baru dengan nama flutter_plugin_pubdev. Lalu jadikan repository di GitHub Anda dengan nama flutter_plugin_pubdev.
